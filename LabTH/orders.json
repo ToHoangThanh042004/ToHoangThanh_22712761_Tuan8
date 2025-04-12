@@ -1,0 +1,148 @@
+{
+  "orders": [
+    {
+      "id": "1",
+      "avatar": "Avatar (2).png",
+      "name": "Elizabeth ",
+      "company": "AvatarSystems",
+      "value": "$359",
+      "date": "2025-04-18",
+      "status": "In-progress"
+    },
+    {
+      "id": "2",
+      "avatar": "Avatar (3).png",
+      "name": "Carlos Garcia",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "2025-04-12",
+      "status": "In-progress"
+    },
+    {
+      "id": "3",
+      "avatar": "Avatar (2).png",
+      "name": "Elizabeth Bailey",
+      "company": "Prime Time Telecom",
+      "value": "$564",
+      "date": "08/08/2023",
+      "status": "In-progress"
+    },
+    {
+      "id": "4",
+      "avatar": "Avatar (3).png",
+      "name": "Ryan Brown",
+      "company": "OmniTech Corporation",
+      "value": "$541",
+      "date": "31/08/2025",
+      "status": "In-progress"
+    },
+    {
+      "id": "5",
+      "avatar": "Avatar (4).png",
+      "name": "Ryan Young",
+      "company": "DataStream inc.",
+      "value": "$769",
+      "date": "01/05/2023",
+      "status": "Completed"
+    },
+    {
+      "id": "6",
+      "avatar": "Avatar (5).png",
+      "name": "Hailey Adams",
+      "company": "FlowRush",
+      "value": "$922",
+      "date": "10/06/2023",
+      "status": "Completed"
+    },
+    {
+      "id": "0df3",
+      "name": "Tô Hoàng Thành",
+      "company": "AvatarSystems",
+      "value": "$359",
+      "date": "2025-05-09",
+      "status": "New",
+      "avatar": "Avatar 313.png"
+    },
+    {
+      "id": "b68d",
+      "name": "qư",
+      "company": "qư",
+      "value": "qư",
+      "date": "2025-04-26",
+      "status": "Completed",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "a862",
+      "name": "Tô Hoàng Thành",
+      "company": "AvatarSystems",
+      "value": "$747",
+      "date": "2025-04-11",
+      "status": "In-progress",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "3094",
+      "name": "1",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "2025-04-18",
+      "status": "In-progress",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "962a",
+      "name": "Tô Hoàng Thành",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "2016-06-11",
+      "status": "In-progress",
+      "avatar": "Avatar (2).png"
+    },
+    {
+      "id": "84c2",
+      "name": "Tô Hoàng Thành",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "2025-04-18",
+      "status": "New",
+      "avatar": "Avatar (2).png"
+    },
+    {
+      "id": "58c1",
+      "name": "Tô Hoàng Thành",
+      "company": "SmoozeShift",
+      "value": "$747",
+      "date": "2025-04-16",
+      "status": "In-progress",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "3898",
+      "name": "Phạm Văn binh",
+      "company": "Iuh",
+      "value": "10",
+      "date": "2025-04-19",
+      "status": "In-progress",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "65dc",
+      "name": "Tô Hoàng Thành",
+      "company": "AvatarSystems",
+      "value": "$359",
+      "date": "2015-01-01",
+      "status": "New",
+      "avatar": "Avatar (1).png"
+    },
+    {
+      "id": "3edd",
+      "name": "pHAM VAN BINH",
+      "company": "FPT",
+      "value": "$747",
+      "date": "2011-02-17",
+      "status": "Completed",
+      "avatar": "Avatar (1).png"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "overview": [
+      {
+        "id": 1,
+        "title": "Turnover",
+        "value": 92405,
+        "unit": "$",
+        "change": 5.39,
+        "icon": "cart"
+      },
+      {
+        "id": 2,
+        "title": "Profit",
+        "value": 32218,
+        "unit": "$",
+        "change": 5.39,
+        "icon": "dollar"
+      },
+      {
+        "id": 3,
+        "title": "New customer",
+        "value": 298,
+        "unit": "",
+        "change": 6.84,
+        "icon": "userplus"
+      }
+    ]
+  }
+  

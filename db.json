@@ -1,0 +1,28 @@
+{
+  "overview": [
+    {
+      "id": 1,
+      "title": "Turnover",
+      "unit": "$",
+      "value": 50000,
+      "change": 10,
+      "icon": "cart"
+    },
+    {
+      "id": 2,
+      "title": "Profit",
+      "unit": "$",
+      "value": 15000,
+      "change": 5,
+      "icon": "dollar"
+    },
+    {
+      "id": 3,
+      "title": "New Customers",
+      "unit": "",
+      "value": 120,
+      "change": 15,
+      "icon": "user"
+    }
+  ]
+}
