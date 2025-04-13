@@ -2,7 +2,7 @@
   "orders": [
     {
       "id": "1",
-      "avatar": "Avatar (2).png",
+      "avatar": "Avatar (5).png",
       "name": "Elizabeth ",
       "company": "AvatarSystems",
       "value": "$359",
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "avatar": "Avatar (4).png",
+      "avatar": "IMG_1305.png",
       "name": "Ryan Young",
       "company": "DataStream inc.",
       "value": "$769",
@@ -142,7 +142,7 @@
       "value": "$747",
       "date": "2011-02-17",
       "status": "Completed",
-      "avatar": "Avatar (1).png"
+      "avatar": "IMG_1305.png"
     }
   ]
 }
